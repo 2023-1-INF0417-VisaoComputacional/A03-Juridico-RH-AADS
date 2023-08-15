@@ -1,3 +1,7 @@
+# TEAM JURIDICO RH AADS
+202105832 - Alexandre Costa Ferro Filho
+
+
 # People tracking utilizando uma câmera acoplada no gimbal e suas aplicações
 
 ## Resumo
